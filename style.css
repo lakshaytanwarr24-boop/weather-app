@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background: #4facfe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather-box {
+  background: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  width: 300px;
+}
+
+input {
+  padding: 8px;
+  width: 80%;
+}
+
+button {
+  padding: 8px;
+  margin-top: 10px;
+  background: #4facfe;
+  color: white;
+  border: none;
+}
